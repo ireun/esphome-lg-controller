@@ -12,6 +12,7 @@ PCB design by [@IreuN](https://github.com/ireun).
 * Added additional capacitor C3 on 3V3 output of TPS82130
 * Added ability to mount XIAO directly or through header
 * Reduced to 2 layers only
+* Added GND stitching around the PCB
 * Moved signal pin to the middle of JST connector
 * Added a place for an IR diode, making it possible to use it when some functions are unavailable to set by CN-REMO but are available to an IR remote
 
