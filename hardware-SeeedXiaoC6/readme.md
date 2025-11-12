@@ -8,6 +8,6 @@ PCB design by @IreuN.
 
 # Images
 
-![PCB 3D View](.\images\pcb-3D.png)
-![PCB Front](.\images\pcb-front.png)
-![PCB Rear](.\images\pcb-rear.png)
+![PCB 3D View](images/pcb-3D.png)
+![PCB Front](images/pcb-front.png)
+![PCB Rear](images/pcb-rear.png)
